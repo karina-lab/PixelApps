@@ -1,0 +1,7 @@
+id=PixelApps
+name=Pixel Apps
+version=v1.0.0
+versionCode=100
+author=klab
+description=System apps from Pixel 10 series. Some of them even work!
+updateJson=https://raw.githubusercontent.com/karina-lab/PixelApps/main/update.json
