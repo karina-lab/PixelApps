@@ -32,7 +32,7 @@ Honestly? Mostly for flexing and seeing what the new Pixel software looks like. 
 ## Requirements
 
 * **Root:** Magisk, KernelSU, or APatch.
-* **Target:** Designed for Pixel devices, but compatible with most modern AOSP-based ROMs.
+* **Target:** Designed for Pixel devices, but compatible with most devices.
 
 ## Credits
 
